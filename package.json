@@ -1,0 +1,8 @@
+{
+  "name": "viral-clicker",
+  "version": "1.0.0",
+  "description": "Idle clicker game prototype",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  }
+}
